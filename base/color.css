@@ -1,0 +1,31 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --color-950: #070e13;
+  --color-900: #0d1c26;
+  --color-800: #132a3a;
+  --color-700: #19384e;
+  --color-600: #1e4662;
+  --color-500: #225577;
+  --color-text: #ffffff;
+  --color-950: #49a0d9;
+  --color-900: #3594d2;
+  --color-800: #2d84be;
+  --color-700: #2a74a6;
+  --color-600: #26658e;
+  --color-500: #225577;
+  --color-text: #ffffff;
+  --color-primary-1: var(--color-950);
+  --color-primary-2: var(--color-900);
+  --color-primary-3: var(--color-800);
+  --color-primary-4: var(--color-700);
+  --color-primary-5: var(--color-600);
+  --color-primary-6: var(--color-500);
+  --color-text: var(--color-text);
+  --color-button-background: var(--color-primary-3);
+  --color-button-text: var(--color-text);
+  --color-button-outline: var(--color-primary-6);
+}
