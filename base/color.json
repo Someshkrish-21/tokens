@@ -58,6 +58,10 @@
         "value": "#ffffff",
         "type": "color"
       },
+      "mytoken": {
+        "value": "#ffffff",
+        "type": "color"
+      },
       "primary-1": {
         "value": "{color.color.950}",
         "type": "color"
