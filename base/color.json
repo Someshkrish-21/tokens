@@ -1,0 +1,107 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "color": {
+    "color": {
+      "500": {
+        "value": "#225577",
+        "type": "color"
+      },
+      "600": {
+        "value": "#1e4662",
+        "type": "color"
+      },
+      "700": {
+        "value": "#19384e",
+        "type": "color"
+      },
+      "800": {
+        "value": "#132a3a",
+        "type": "color"
+      },
+      "900": {
+        "value": "#0d1c26",
+        "type": "color"
+      },
+      "950": {
+        "value": "#070e13",
+        "type": "color"
+      },
+      "text": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "950_1": {
+        "value": "#49a0d9",
+        "type": "color"
+      },
+      "900_1": {
+        "value": "#3594d2",
+        "type": "color"
+      },
+      "800_1": {
+        "value": "#2d84be",
+        "type": "color"
+      },
+      "700_1": {
+        "value": "#2a74a6",
+        "type": "color"
+      },
+      "600_1": {
+        "value": "#26658e",
+        "type": "color"
+      },
+      "500_1": {
+        "value": "#225577",
+        "type": "color"
+      },
+      "text_1": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "mytoken": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary-1": {
+        "value": "{color.color.950}",
+        "type": "color"
+      },
+      "primary-2": {
+        "value": "{color.color.900}",
+        "type": "color"
+      },
+      "primary-3": {
+        "value": "{color.color.800}",
+        "type": "color"
+      },
+      "primary-4": {
+        "value": "{color.color.700}",
+        "type": "color"
+      },
+      "primary-5": {
+        "value": "{color.color.600}",
+        "type": "color"
+      },
+      "primary-6": {
+        "value": "{color.color.500}",
+        "type": "color"
+      },
+      "text_2": {
+        "value": "{color.color.text}",
+        "type": "color"
+      },
+      "button-background": {
+        "value": "{color.color.primary-3}",
+        "type": "color"
+      },
+      "button-text": {
+        "value": "{color.color.text_2}",
+        "type": "color"
+      },
+      "button-outline": {
+        "value": "{color.color.primary-6}",
+        "type": "color"
+      }
+    }
+  }
+}
